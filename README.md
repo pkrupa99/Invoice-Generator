@@ -26,5 +26,6 @@ For this purpose, UserForms properties have been applied. Next, the user is requ
 
 ![PDF Invoice](./images/FinishInvoice.JPG)
 
+<p>Word invoice template</p>
 
 ![Word Invoice](./images/invoiceTemplateWord.JPG)
